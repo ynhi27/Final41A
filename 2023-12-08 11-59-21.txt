@@ -1,0 +1,16 @@
+                          BILL
+12/08/2023 11:59:21
+     Items            Quantity      Price          Total
+De Anza Burger           0          $5.25         $0.00        
+Bacon Cheese             0          $5.75         $0.00        
+Mushroom Swiss           0          $5.95         $0.00        
+Western Burger           0          $5.95         $0.00        
+Don Cali Burger          0          $5.95         $0.00        
+------------------------------------------------------------
+Total Before Tax                             $   0.00
+Tax amount                                   $   0.00
+------------------------------------------------------------
+Total After Tax                              $   0.00
+------------------------------------------------------------
+                        THANK YOU
+                   HOPE TO SEE YOU AGAIN
